@@ -1,0 +1,10 @@
+.p-Home.TextBox9{
+    background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);;
+    -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+.p-Home.TextBox21, .TextBox127, .TextBox137, .TextBox69, .TextBox93, .TextBox60, .TextBox63, .TextBox66, .TextBox53{
+    background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
